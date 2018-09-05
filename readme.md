@@ -1,6 +1,4 @@
-# Site RP v1.1
-### with RPX
-> Version 1.0.4
+# LMS Laravel with Vue v1.1
 
 Prepare your .env file there with database connection and other settings.
 
