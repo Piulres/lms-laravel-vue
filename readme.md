@@ -1,4 +1,4 @@
-# LMS Laravel with Vue v1.1
+# LMS - Laravel with Vue v1.1
 
 Prepare your .env file there with database connection and other settings.
 
